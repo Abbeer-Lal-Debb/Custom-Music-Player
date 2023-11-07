@@ -19,4 +19,4 @@ A Real time Music Player where someone can listen to songs, shuffle songs of the
 
 ## Demo
 
-- [Custom music Player - Live Website](https://custom-music-player-by-abbeer.netlify.app/)
+- [Custom Music Player - Live Website](https://custom-music-player-by-abbeer.netlify.app/)
